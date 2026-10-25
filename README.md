@@ -1,4 +1,4 @@
-# Tennessee Eastman Process — Fault Diagnosis with Classical ML
+# Tennessee Eastman Process — Fault Diagnosis with Classical ML and DL
 
 A multi-class fault diagnosis pipeline built on the Tennessee Eastman Process (TEP)
 benchmark dataset (Downs & Vogel, 1993; simulated dataset distribution by Rieth et al.,
